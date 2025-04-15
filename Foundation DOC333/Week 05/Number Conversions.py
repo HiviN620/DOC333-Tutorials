@@ -1,0 +1,10 @@
+y = 56.475
+print (y)
+y = int(y)
+print (y)
+y = float(y)
+print (y)
+y = str(y)
+print (y)
+y = bool(y)
+print (y)
