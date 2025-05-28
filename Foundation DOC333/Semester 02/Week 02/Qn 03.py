@@ -1,5 +1,6 @@
 name = str(input("Enter your name: "))
 
+print("Your surname is: ",name)
 print("Length of your surname: ",len(name))
 print("3rd letter of your surname: ",name[2])
 print("All Capital: ",name.upper())

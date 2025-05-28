@@ -25,3 +25,11 @@ print(value)  # Output: [1, 2, 3]
 value = tuple([1, 2, 3])
 print(value)  # Output: (1, 2, 3)
 
+value = bin(45)
+print(value)  # Output: '0b101101'
+
+value = hex(255)
+print(value)  # Output: '0xff'
+
+value = oct(64)
+print(value)  # Output: '0o100'
